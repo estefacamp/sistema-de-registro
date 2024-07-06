@@ -4,4 +4,4 @@
 
 Para ejectur el sistema,deber poner:
   
-  ```nmp install react´´´
+  ```npm install react´´´
